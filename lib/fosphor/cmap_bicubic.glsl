@@ -28,7 +28,7 @@
  * will work with 1.3
  */
 
-#version 150 /*  compatibility */
+/* #version 150 compatibility */
 /* #version 130 */
 
 
